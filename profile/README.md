@@ -1,4 +1,5 @@
-# ![image](https://github.com/BIH-CEI/.github/assets/43171336/593713ef-1797-4b39-b8f1-a1e18db06067) Core Unit Digital Medicine and Interoperability 
+![image](https://github.com/BIH-CEI/.github/assets/43171336/593713ef-1797-4b39-b8f1-a1e18db06067) 
+# Core Unit Digital Medicine and Interoperability 
 
 <hr>
 
